@@ -6,7 +6,7 @@ A premium, modern AI chatbot application built with Flask, OpenAI-compatible API
 
 ## Interface Preview
 
-![SimSit AI Interface](static/assets/interface.png)
+![SimSit AI Interface](interface.png)
 
 ## 🚀 Free Deployment Guide
 
